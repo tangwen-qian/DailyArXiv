@@ -39,7 +39,7 @@ jobs:
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: qiantw
-        email: 49673831@qq.com
+        email: qiantangwen@ict.ac.cn
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
