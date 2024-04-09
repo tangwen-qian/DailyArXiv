@@ -2,7 +2,6 @@
 title: Latest 15 Papers - April 09, 2024
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
