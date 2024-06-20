@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 20, 2024
+title: Latest 15 Papers - June 21, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
