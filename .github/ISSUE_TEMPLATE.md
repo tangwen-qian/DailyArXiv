@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 05, 2024
+title: Latest 15 Papers - July 08, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -54,12 +54,12 @@ labels: documentation
 | **[Fredformer: Frequency Debiased Transformer for Time Series Forecasting](http://arxiv.org/abs/2406.09009v4)** | 2024-07-03 | <details><summary>This ...</summary><p>This paper has been accepted by SIGKDD2024</p></details> |
 | **[ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring](http://arxiv.org/abs/2407.03063v1)** | 2024-07-03 |  |
 | **[Enhancements for Real-Time Monte-Carlo Tree Search in General Video Game Playing](http://arxiv.org/abs/2407.03049v1)** | 2024-07-03 | <details><summary>Green...</summary><p>Green Open Access version of conference paper published in 2016</p></details> |
+| **[Finding irrelevant vertices in linear time on bounded-genus graphs](http://arxiv.org/abs/1907.05940v4)** | 2024-07-03 | <details><summary>These...</summary><p>These results are subsumed to a large extent by existing literature</p></details> |
 | **[YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision](http://arxiv.org/abs/2407.02988v1)** | 2024-07-03 |  |
 | **[Affine Frequency Division Multiplexing for Compressed Sensing of Time-Varying Channels](http://arxiv.org/abs/2407.02953v1)** | 2024-07-03 | <details><summary>Accep...</summary><p>Accepted in SPAWC 2024</p></details> |
 | **[Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems](http://arxiv.org/abs/2407.02933v1)** | 2024-07-03 |  |
 | **[Membership Inference Attacks Against Time-Series Models](http://arxiv.org/abs/2407.02870v1)** | 2024-07-03 | 16 pages |
 | **[A Self-Supervised Task for Fault Detection in Satellite Multivariate Time Series](http://arxiv.org/abs/2407.02861v1)** | 2024-07-03 | <details><summary>SPAIC...</summary><p>SPAICE: AI in and for Space, 2024</p></details> |
-| **[Accelerating Diffusion Sampling with Optimized Time Steps](http://arxiv.org/abs/2402.17376v3)** | 2024-07-03 | CVPR 2024 |
 
 ## Temporal
 | **Title** | **Date** | **Comment** |
