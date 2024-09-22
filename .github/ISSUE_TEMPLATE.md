@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2024
+title: Latest 15 Papers - September 23, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -56,7 +56,7 @@ labels: documentation
 | **[Enabling Real-Time Conversations with Minimal Training Costs](http://arxiv.org/abs/2409.11727v1)** | 2024-09-18 | <details><summary>7page...</summary><p>7pages, 6 figures, 1 table</p></details> |
 | **[From exponential to finite/fixed-time stability: Applications to optimization](http://arxiv.org/abs/2409.11713v1)** | 2024-09-18 | 6 pages; 1 figure |
 | **[Recurrent Interpolants for Probabilistic Time Series Prediction](http://arxiv.org/abs/2409.11684v1)** | 2024-09-18 |  |
-| **[Spline-based solution transfer for space-time methods in 2D+t](http://arxiv.org/abs/2409.11639v1)** | 2024-09-18 | <details><summary>36 pa...</summary><p>36 pages, 17 figures, 3 tables</p></details> |
+| **[Spline-based solution transfer for space-time methods in 2D+t](http://arxiv.org/abs/2409.11639v2)** | 2024-09-19 | <details><summary>36 pa...</summary><p>36 pages, 17 figures, 3 tables</p></details> |
 | **[Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons](http://arxiv.org/abs/2409.11612v1)** | 2024-09-18 |  |
 | **[Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model](http://arxiv.org/abs/2409.11609v1)** | 2024-09-17 |  |
 | **[Impact of Transmission Dynamics and Treatment Uptake, Frequency and Timing on the Cost-effectiveness of Directly Acting Antivirals for Hepatitis C Virus Infection](http://arxiv.org/abs/2407.19229v2)** | 2024-09-17 |  |
@@ -124,8 +124,8 @@ labels: documentation
 | **[Generalized compression and compressive search of large datasets](http://arxiv.org/abs/2409.12161v1)** | 2024-09-18 |  |
 | **[Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](http://arxiv.org/abs/2409.12106v1)** | 2024-09-18 |  |
 | **[Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking](http://arxiv.org/abs/2409.12059v1)** | 2024-09-18 | 9 pages, 5 figures |
-| **[Using Large Language Models to Generate Clinical Trial Tables and Figures](http://arxiv.org/abs/2409.12046v1)** | 2024-09-18 |  |
-| **[LOLA -- An Open-Source Massively Multilingual Large Language Model](http://arxiv.org/abs/2409.11272v2)** | 2024-09-18 |  |
+| **[Using Large Language Models to Generate Clinical Trial Tables and Figures](http://arxiv.org/abs/2409.12046v2)** | 2024-09-19 |  |
+| **[LOLA -- An Open-Source Massively Multilingual Large Language Model](http://arxiv.org/abs/2409.11272v3)** | 2024-09-19 |  |
 | **[LMMCoDrive: Cooperative Driving with Large Multimodal Model](http://arxiv.org/abs/2409.11981v1)** | 2024-09-18 | 7 pages, 5 figures |
 | **[On the Creativity of Large Language Models](http://arxiv.org/abs/2304.00008v4)** | 2024-09-18 |  |
 | **[ExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction](http://arxiv.org/abs/2310.12537v4)** | 2024-09-18 |  |
@@ -144,8 +144,8 @@ labels: documentation
 | **[All-in-one foundational models learning across quantum chemical levels](http://arxiv.org/abs/2409.12015v1)** | 2024-09-18 |  |
 | **[ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation](http://arxiv.org/abs/2409.12010v1)** | 2024-09-18 |  |
 | **[Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law](http://arxiv.org/abs/2407.13493v2)** | 2024-09-18 | <details><summary>Spotl...</summary><p>Spotlight presentation at GenLaw'24, see https://www.genlaw.org/2024-icml-papers#training-foundation-models-as-data-compression-on-information-model-weights-and-copyright-law</p></details> |
-| **[Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models](http://arxiv.org/abs/2409.11752v1)** | 2024-09-18 |  |
-| **[Human-like Affective Cognition in Foundation Models](http://arxiv.org/abs/2409.11733v1)** | 2024-09-18 |  |
+| **[Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models](http://arxiv.org/abs/2409.11752v2)** | 2024-09-19 |  |
+| **[Human-like Affective Cognition in Foundation Models](http://arxiv.org/abs/2409.11733v2)** | 2024-09-19 |  |
 | **[M-BEST-RQ: A Multi-Channel Speech Foundation Model for Smart Glasses](http://arxiv.org/abs/2409.11494v1)** | 2024-09-17 | <details><summary>In su...</summary><p>In submission to IEEE ICASSP 2025</p></details> |
 | **[Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models](http://arxiv.org/abs/2409.11302v1)** | 2024-09-17 | <details><summary>7 pag...</summary><p>7 pages. Under review</p></details> |
 | **[Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models](http://arxiv.org/abs/2409.10788v1)** | 2024-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2025</p></details> |
