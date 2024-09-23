@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2024
+title: Latest 15 Papers - September 24, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -86,7 +86,7 @@ labels: documentation
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v2)** | 2024-09-18 | <details><summary>Submi...</summary><p>Submitted to ICRA 2025</p></details> |
 | **[A Generic Trajectory Planning Method for Constrained All-Wheel-Steering Robots](http://arxiv.org/abs/2404.09677v3)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted by iROS 2024</p></details> |
 | **[Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning](http://arxiv.org/abs/2401.06344v2)** | 2024-09-17 |  |
-| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v1)** | 2024-09-17 |  |
+| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v2)** | 2024-09-20 |  |
 | **[Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems](http://arxiv.org/abs/2409.11238v1)** | 2024-09-17 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work</p></details> |
 | **[TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection](http://arxiv.org/abs/2409.10901v1)** | 2024-09-17 |  |
 | **[Constraint-Informed Learning for Warm Starting Trajectory Optimization](http://arxiv.org/abs/2312.14336v2)** | 2024-09-17 |  |
@@ -105,7 +105,7 @@ labels: documentation
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v2)** | 2024-09-18 | <details><summary>Submi...</summary><p>Submitted to ICRA 2025</p></details> |
 | **[A Generic Trajectory Planning Method for Constrained All-Wheel-Steering Robots](http://arxiv.org/abs/2404.09677v3)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted by iROS 2024</p></details> |
 | **[Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning](http://arxiv.org/abs/2401.06344v2)** | 2024-09-17 |  |
-| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v1)** | 2024-09-17 |  |
+| **[TISIS : Trajectory Indexing for SImilarity Search](http://arxiv.org/abs/2409.11301v2)** | 2024-09-20 |  |
 | **[Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems](http://arxiv.org/abs/2409.11238v1)** | 2024-09-17 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work</p></details> |
 | **[TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection](http://arxiv.org/abs/2409.10901v1)** | 2024-09-17 |  |
 | **[Constraint-Informed Learning for Warm Starting Trajectory Optimization](http://arxiv.org/abs/2312.14336v2)** | 2024-09-17 |  |
@@ -128,7 +128,7 @@ labels: documentation
 | **[LOLA -- An Open-Source Massively Multilingual Large Language Model](http://arxiv.org/abs/2409.11272v3)** | 2024-09-19 |  |
 | **[LMMCoDrive: Cooperative Driving with Large Multimodal Model](http://arxiv.org/abs/2409.11981v1)** | 2024-09-18 | 7 pages, 5 figures |
 | **[On the Creativity of Large Language Models](http://arxiv.org/abs/2304.00008v4)** | 2024-09-18 |  |
-| **[ExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction](http://arxiv.org/abs/2310.12537v4)** | 2024-09-18 |  |
+| **[ExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction](http://arxiv.org/abs/2310.12537v5)** | 2024-09-20 |  |
 | **[LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors](http://arxiv.org/abs/2409.03456v2)** | 2024-09-18 | <details><summary>Proje...</summary><p>Project page: https://hanyangyu1021.github.io/lm-gaussian.github.io/</p></details> |
 | **[Distillation-free Scaling of Large SSMs for Images and Videos](http://arxiv.org/abs/2409.11867v1)** | 2024-09-18 |  |
 | **[Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](http://arxiv.org/abs/2409.11860v1)** | 2024-09-18 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 Tables</p></details> |
