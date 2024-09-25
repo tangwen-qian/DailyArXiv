@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2024
+title: Latest 15 Papers - September 26, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -122,20 +122,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Generalized compression and compressive search of large datasets](http://arxiv.org/abs/2409.12161v1)** | 2024-09-18 |  |
-| **[Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](http://arxiv.org/abs/2409.12106v1)** | 2024-09-18 |  |
-| **[Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking](http://arxiv.org/abs/2409.12059v1)** | 2024-09-18 | 9 pages, 5 figures |
-| **[Using Large Language Models to Generate Clinical Trial Tables and Figures](http://arxiv.org/abs/2409.12046v2)** | 2024-09-19 |  |
-| **[LOLA -- An Open-Source Massively Multilingual Large Language Model](http://arxiv.org/abs/2409.11272v3)** | 2024-09-19 |  |
-| **[LMMCoDrive: Cooperative Driving with Large Multimodal Model](http://arxiv.org/abs/2409.11981v1)** | 2024-09-18 | 7 pages, 5 figures |
-| **[On the Creativity of Large Language Models](http://arxiv.org/abs/2304.00008v4)** | 2024-09-18 |  |
-| **[ExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction](http://arxiv.org/abs/2310.12537v5)** | 2024-09-20 |  |
-| **[LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors](http://arxiv.org/abs/2409.03456v2)** | 2024-09-18 | <details><summary>Proje...</summary><p>Project page: https://hanyangyu1021.github.io/lm-gaussian.github.io/</p></details> |
-| **[Distillation-free Scaling of Large SSMs for Images and Videos](http://arxiv.org/abs/2409.11867v1)** | 2024-09-18 |  |
-| **[Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](http://arxiv.org/abs/2409.11860v1)** | 2024-09-18 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 Tables</p></details> |
-| **[GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models](http://arxiv.org/abs/2409.11022v2)** | 2024-09-18 |  |
-| **[Internal Consistency and Self-Feedback in Large Language Models: A Survey](http://arxiv.org/abs/2407.14507v3)** | 2024-09-18 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 6 tables, 13 equations</p></details> |
-| **[EFCM: Efficient Fine-tuning on Compressed Models for deployment of large models in medical image analysis](http://arxiv.org/abs/2409.11817v1)** | 2024-09-18 |  |
-| **[The Factuality of Large Language Models in the Legal Domain](http://arxiv.org/abs/2409.11798v1)** | 2024-09-18 | <details><summary>CIKM ...</summary><p>CIKM 2024, short paper</p></details> |
 
 ## Foundation
 | **Title** | **Date** | **Comment** |
