@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 | **[Spatio-Temporal Graph Scattering Transform](https://arxiv.org/pdf/2012.03363v3)** | 2021-02-10 | 18 pages, ICLR 2021 |
 | **[A Survey on Spatio-temporal Data Analytics Systems](https://arxiv.org/pdf/2103.09883v1)** | 2021-03-19 |  |
 | **[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/pdf/2403.00813v3)** | 2024-05-21 | <details><summary>Accep...</summary><p>Accepted by KDD'2024 as Full Paper</p></details> |
+| **[Spatio-Temporal Graph Unlearning](https://arxiv.org/pdf/2511.09404v1)** | 2025-11-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 4 tables</p></details> |
 | **[Spatio-temporal Diffusion Point Processes](https://arxiv.org/pdf/2305.12403v2)** | 2023-06-27 | Accepted by KDD23 |
 | **[Robust and Conjugate Spatio-Temporal Gaussian Processes](https://arxiv.org/pdf/2502.02450v2)** | 2025-05-29 |  |
 | **[Spatio-Temporal Functional Neural Networks](https://arxiv.org/pdf/2009.05665v1)** | 2020-09-15 | <details><summary>Accep...</summary><p>Accepted by 2020 IEEE International Conference on Data Science and Advanced Analytics (DSAA)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EasyST: A Simple Framework for Spatio-Temporal Prediction](https://arxiv.org/pdf/2409.06748v1)** | 2024-09-12 | <details><summary>Accep...</summary><p>Accepted by CIKM'2024, full paper</p></details> |
 | **[Spatio-temporal count autoregression](https://arxiv.org/pdf/2404.02982v4)** | 2024-11-14 | <details><summary>24 pa...</summary><p>24 pages, 16 figures and 22 tables</p></details> |
 | **[Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers](https://arxiv.org/pdf/2403.10574v1)** | 2024-03-19 |  |
-| **[kD-STR: A Method for Spatio-Temporal Data Reduction and Modelling](https://arxiv.org/pdf/2005.08111v1)** | 2020-05-19 |  |
 
 ## Time
 | **Title** | **Date** | **Comment** |
@@ -126,8 +126,8 @@ labels: documentation
 | **[Applications of Large Models in Medicine](https://arxiv.org/pdf/2502.17132v2)** | 2025-10-08 |  |
 | **[Routing for Large ML Models](https://arxiv.org/pdf/2503.05324v1)** | 2025-03-10 |  |
 | **[Large Language Models are Biased Because They Are Large Language Models](https://arxiv.org/pdf/2406.13138v2)** | 2025-03-17 | <details><summary>To ap...</summary><p>To appear in Computational Linguistics. Significantly revised since the prior arXiv version. This preprint has 22 pages</p></details> |
-| **[A class of graphs with large rankwidth](https://arxiv.org/pdf/2007.11513v3)** | 2023-10-23 |  |
 | **[Simulating Large Eliminations in Cedille](https://arxiv.org/pdf/2112.07817v1)** | 2021-12-16 |  |
+| **[Large deviations for conditional guesswork](https://arxiv.org/pdf/1809.10921v2)** | 2019-06-04 | minor changes |
 
 ## Foundation
 | **Title** | **Date** | **Comment** |
