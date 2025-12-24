@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Spatial
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialTree: How Spatial Abilities Branch Out in MLLMs](https://arxiv.org/abs/2512.20617v1)** | 2025-12-23 | <details><summary>webpa...</summary><p>webpage: https://spatialtree.github.io/</p></details> |
+| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
+| **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
+| **[Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling](https://arxiv.org/abs/2512.20198v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Computers</p></details> |
+| **[Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions](https://arxiv.org/abs/2512.20165v1)** | 2025-12-23 |  |
+| **[S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test](https://arxiv.org/abs/2512.19992v1)** | 2025-12-23 | 10 pages, 9 figures |
+| **[Uncovering latent territorial structure in ICFES Saber 11 performance with Bayesian multilevel spatial models](https://arxiv.org/abs/2512.17119v2)** | 2025-12-22 | <details><summary>42 pa...</summary><p>42 pages, 14 tables, 12 figures</p></details> |
 | **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
 | **[A Markov Chain Modeling Approach for Predicting Relative Risks of Spatial Clusters in Public Health](https://arxiv.org/abs/2512.19635v1)** | 2025-12-22 |  |
 | **[Estimating Spatially Resolved Radiation Fields Using Neural Networks](https://arxiv.org/abs/2512.17654v2)** | 2025-12-22 |  |
@@ -15,17 +22,15 @@ labels: documentation
 | **[Over-representation of phonological features in basic vocabulary doesn't replicate when controlling for spatial and phylogenetic effects](https://arxiv.org/abs/2512.07543v2)** | 2025-12-21 | <details><summary>Accep...</summary><p>Accepted with minor revisions at *Linguistic Typology*, expected to be fully published in 2026</p></details> |
 | **[Non-stationary Spatial Modeling Using Fractional SPDEs](https://arxiv.org/abs/2512.18768v1)** | 2025-12-21 |  |
 | **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v1)** | 2025-12-21 |  |
-| **[Reorienting Age-Friendly Frameworks for Rural Contexts: A Spatial Competence-Press Framework for Aging in Chinese Villages](https://arxiv.org/abs/2510.20343v2)** | 2025-12-21 | <details><summary>Publi...</summary><p>Published in Urban Studies</p></details> |
-| **[SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation](https://arxiv.org/abs/2512.01701v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026</p></details> |
-| **[Investigating Spatial Attention Bias in Vision-Language Models](https://arxiv.org/abs/2512.18231v1)** | 2025-12-20 |  |
-| **[Multifaceted Exploration of Spatial Openness in Rental Housing: A Big Data Analysis in Tokyo's 23 Wards](https://arxiv.org/abs/2512.18226v1)** | 2025-12-20 |  |
-| **[SERA-H: Beyond Native Sentinel Spatial Limits for High-Resolution Canopy Height Mapping](https://arxiv.org/abs/2512.18128v1)** | 2025-12-19 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 3 tables. Source code available at https://github.com/ThomasBoudras/SERA-H#</p></details> |
-| **[Understanding Spatial Regression Models from a Weighting Perspective in an Observational Study of Superfund Remediation](https://arxiv.org/abs/2508.19572v2)** | 2025-12-19 | <details><summary>72 pa...</summary><p>72 pages, 12 figures, 7 tables (includes supplement)</p></details> |
-| **[InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.17851v1)** | 2025-12-19 |  |
 
 ## Spatio
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
+| **[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/abs/2401.15894v3)** | 2025-12-23 | <details><summary>Proce...</summary><p>Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
+| **[Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection](https://arxiv.org/abs/2512.20086v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</p></details> |
+| **[Spatio-Temporal Graph Neural Networks for Dairy Farm Sustainability Forecasting and Counterfactual Policy Analysis](https://arxiv.org/abs/2512.19970v1)** | 2025-12-23 |  |
+| **[Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends](https://arxiv.org/abs/2412.16631v2)** | 2025-12-22 |  |
 | **[DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast](https://arxiv.org/abs/2512.19506v1)** | 2025-12-22 | 18 pages, 10 figures |
 | **[TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking](https://arxiv.org/abs/2512.02789v2)** | 2025-12-22 |  |
 | **[Automatic Neuronal Activity Segmentation in Fast Four Dimensional Spatio-Temporal Fluorescence Imaging using Bayesian Approach](https://arxiv.org/abs/2512.19032v1)** | 2025-12-22 |  |
@@ -36,49 +41,44 @@ labels: documentation
 | **[Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting](https://arxiv.org/abs/2512.17696v1)** | 2025-12-19 |  |
 | **[Learning Spatio-Temporal Feature Representations for Video-Based Gaze Estimation](https://arxiv.org/abs/2512.17673v1)** | 2025-12-19 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, the code repository is available at https://gitlab.kuleuven.be/u0172623/ST-Gaze</p></details> |
 | **[Foundation for unbiased cross-validation of spatio-temporal models for species distribution modeling](https://arxiv.org/abs/2502.03480v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted manuscript. Published in Ecological Informatics (2025)</p></details> |
-| **[Pattern recognition in complex systems via vector-field representations of spatio-temporal data](https://arxiv.org/abs/2512.16763v1)** | 2025-12-18 | 24 pages, 10 figures |
-| **[A Survey on Spatio-Temporal Knowledge Graph Models](https://arxiv.org/abs/2512.16487v1)** | 2025-12-18 |  |
-| **[SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning](https://arxiv.org/abs/2512.16461v1)** | 2025-12-18 |  |
-| **[Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks](https://arxiv.org/abs/2509.21735v2)** | 2025-12-17 |  |
-| **[A Spatio-Temporal Machine Learning Model for Mortgage Credit Risk: Default Probabilities and Loan Portfolios](https://arxiv.org/abs/2410.02846v3)** | 2025-12-17 |  |
 
 ## Time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explainable time-series forecasting with sampling-free SHAP for Transformers](https://arxiv.org/abs/2512.20514v1)** | 2025-12-23 |  |
+| **[Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation](https://arxiv.org/abs/2512.18741v2)** | 2025-12-23 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Xilluill/MAG</p></details> |
+| **[Unraveling time-varying causal effects of multiple exposures: integrating Functional Data Analysis with Multivariable Mendelian Randomization](https://arxiv.org/abs/2512.19064v2)** | 2025-12-23 |  |
+| **[Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online](https://arxiv.org/abs/2501.12289v2)** | 2025-12-23 | 44 pages, 22 figures |
+| **[KAN-AFT: An Interpretable Nonlinear Survival Model Integrating Kolmogorov-Arnold Networks with Accelerated Failure Time Analysis](https://arxiv.org/abs/2512.20305v1)** | 2025-12-23 | <details><summary>A new...</summary><p>A new development in Survival Analysis based on the celebrated Kolmogorov-Arnold Networks (KANs)</p></details> |
+| **[Adaptive Command: Real-Time Policy Adjustment via Language Models in StarCraft II](https://arxiv.org/abs/2508.16580v2)** | 2025-12-23 |  |
+| **[Zero-Overhead Introspection for Adaptive Test-Time Compute](https://arxiv.org/abs/2512.01457v4)** | 2025-12-23 |  |
+| **[Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140v1)** | 2025-12-23 | 9 pages,3 figures |
+| **[3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras](https://arxiv.org/abs/2512.20073v1)** | 2025-12-23 |  |
+| **[A Markov-switching dynamic matrix factor model for the high-dimensional matrix time series](https://arxiv.org/abs/2512.20005v1)** | 2025-12-23 |  |
+| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at KDD 2026. 9 pages</p></details> |
+| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v3)** | 2025-12-23 |  |
+| **[A Time-efficient Prioritised Scheduling Algorithm to Optimise Initial Flock Formation of Drones](https://arxiv.org/abs/2512.19914v1)** | 2025-12-22 | 35 pages |
+| **[Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](https://arxiv.org/abs/2512.19905v1)** | 2025-12-22 | 27 pages |
 | **[A Statistical Framework for Understanding Causal Effects that Vary by Treatment Initiation Time in EHR-based Studies](https://arxiv.org/abs/2512.19553v1)** | 2025-12-22 |  |
-| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v1)** | 2025-12-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[An Inverse Scattering Inspired Fourier Neural Operator for Time-Dependent PDE Learning](https://arxiv.org/abs/2512.19439v1)** | 2025-12-22 |  |
-| **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
-| **[BRIC: Bridging Kinematic Plans and Physical Control at Test Time](https://arxiv.org/abs/2511.20431v3)** | 2025-12-22 | Accepted to AAAI'26 |
-| **[Real-Time Machine Learning for Embedded Anomaly Detection](https://arxiv.org/abs/2512.19383v1)** | 2025-12-22 |  |
-| **[REGEN: Real-Time Photorealism Enhancement in Games via a Dual-Stage Generative Network Framework](https://arxiv.org/abs/2508.17061v2)** | 2025-12-22 | 8 pages |
-| **[Time-Vertex Machine Learning for Optimal Sensor Placement in Temporal Graph Signals: Applications in Structural Health Monitoring](https://arxiv.org/abs/2512.19309v1)** | 2025-12-22 |  |
-| **[A Polynomial time Algorithm for 3SAT](https://arxiv.org/abs/1004.3702v95)** | 2025-12-22 | <details><summary>30 pa...</summary><p>30 pages. This time, I add a detailed polynomial time algorithm and proof for 3SAT</p></details> |
-| **[Unraveling time-varying causal effects of multiple exposures: integrating Functional Data Analysis with Multivariable Mendelian Randomization](https://arxiv.org/abs/2512.19064v1)** | 2025-12-22 |  |
-| **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v1)** | 2025-12-22 |  |
-| **[Zero-Overhead Introspection for Adaptive Test-Time Compute](https://arxiv.org/abs/2512.01457v3)** | 2025-12-22 |  |
-| **[UniCoMTE: A Universal Counterfactual Framework for Explaining Time-Series Classifiers on ECG Data](https://arxiv.org/abs/2512.17100v2)** | 2025-12-22 | 21 pages, 7 figures |
-| **[A Real-Time Digital Twin for Adaptive Scheduling](https://arxiv.org/abs/2512.18894v1)** | 2025-12-21 | 5 pages, 3 figures |
-| **[Multimodal Neural Operators for Real-Time Biomechanical Modelling of Traumatic Brain Injury](https://arxiv.org/abs/2510.03248v2)** | 2025-12-21 |  |
 
 ## Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v1)** | 2025-12-23 |  |
+| **[Multi-temporal Adaptive Red-Green-Blue and Long-Wave Infrared Fusion for You Only Look Once-Based Landmine Detection from Unmanned Aerial Systems](https://arxiv.org/abs/2512.20487v1)** | 2025-12-23 | <details><summary>21 pa...</summary><p>21 pages with 6 figures</p></details> |
+| **[Coherence in the brain unfolds across separable temporal regimes](https://arxiv.org/abs/2512.20481v1)** | 2025-12-23 |  |
+| **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
+| **[Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data](https://arxiv.org/abs/2412.11800v3)** | 2025-12-23 | <details><summary>34 pa...</summary><p>34 pages, 17 figures, 8 tables</p></details> |
+| **[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/abs/2401.15894v3)** | 2025-12-23 | <details><summary>Proce...</summary><p>Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
+| **[Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents](https://arxiv.org/abs/2512.20092v1)** | 2025-12-23 |  |
+| **[Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection](https://arxiv.org/abs/2512.20086v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</p></details> |
+| **[Spatio-Temporal Graph Neural Networks for Dairy Farm Sustainability Forecasting and Counterfactual Policy Analysis](https://arxiv.org/abs/2512.19970v1)** | 2025-12-23 |  |
+| **[Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends](https://arxiv.org/abs/2412.16631v2)** | 2025-12-22 |  |
 | **[Detecting Coordinated Activities Through Temporal, Multiplex, and Collaborative Analysis](https://arxiv.org/abs/2512.19677v1)** | 2025-12-22 |  |
 | **[ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars](https://arxiv.org/abs/2512.19546v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://ziqiaopeng.github.io/ActAvatar/</p></details> |
 | **[DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast](https://arxiv.org/abs/2512.19506v1)** | 2025-12-22 | 18 pages, 10 figures |
 | **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
 | **[DSTED: Decoupling Temporal Stabilization and Discriminative Enhancement for Surgical Workflow Recognition](https://arxiv.org/abs/2512.19387v1)** | 2025-12-22 | <details><summary>Early...</summary><p>Early accepted to IPCAI 2026</p></details> |
-| **[TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking](https://arxiv.org/abs/2512.02789v2)** | 2025-12-22 |  |
-| **[Time-Vertex Machine Learning for Optimal Sensor Placement in Temporal Graph Signals: Applications in Structural Health Monitoring](https://arxiv.org/abs/2512.19309v1)** | 2025-12-22 |  |
-| **[D$^{2}$Stream: Decoupled Dual-Stream Temporal-Speaker Interaction for Audio-Visual Speaker Detection](https://arxiv.org/abs/2512.19130v1)** | 2025-12-22 |  |
-| **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
-| **[Automatic Neuronal Activity Segmentation in Fast Four Dimensional Spatio-Temporal Fluorescence Imaging using Bayesian Approach](https://arxiv.org/abs/2512.19032v1)** | 2025-12-22 |  |
-| **[Expressive Temporal Specifications for Reward Monitoring](https://arxiv.org/abs/2511.12808v3)** | 2025-12-22 | Accepted at AAAI-26 |
-| **[Applications of Interval-based Temporal Separation: the Reactivity Normal Form, Inverse $Π$, Craig Interpolation and Beth Definability](https://arxiv.org/abs/2512.08640v2)** | 2025-12-21 |  |
-| **[Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos](https://arxiv.org/abs/2512.18750v1)** | 2025-12-21 | <details><summary>21 pa...</summary><p>21 pages, 4 figures. Preprint under review for journal submission</p></details> |
-| **[Estimating velocities of infectious disease spread through spatio-temporal log-Gaussian Cox point processes](https://arxiv.org/abs/2409.05036v2)** | 2025-12-21 | <details><summary>29 pa...</summary><p>29 pages, 46 figures, Journal American Statistican, submitted on 3rd of September</p></details> |
-| **[SmartSight: Mitigating Hallucination in Video-LLMs Without Compromising Video Understanding via Temporal Attention Collapse](https://arxiv.org/abs/2512.18671v1)** | 2025-12-21 | AAAI26 accepted |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
@@ -121,38 +121,38 @@ labels: documentation
 ## Large
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
-| **[LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?](https://arxiv.org/abs/2510.09595v2)** | 2025-12-22 |  |
-| **[AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models](https://arxiv.org/abs/2509.12715v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos](https://arxiv.org/abs/2509.00767v2)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to 3DV 2026. Project page: https://mael-zys.github.io/InterPose/</p></details> |
-| **[Event Extraction in Large Language Model](https://arxiv.org/abs/2512.19537v1)** | 2025-12-22 | <details><summary>38 pa...</summary><p>38 pages, 9 Figures, 5 Tables</p></details> |
-| **[Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation](https://arxiv.org/abs/2512.19512v1)** | 2025-12-22 |  |
-| **[A Large-Language-Model Framework for Automated Humanitarian Situation Reporting](https://arxiv.org/abs/2512.19475v1)** | 2025-12-22 | 18 pages, 3 figures |
-| **[dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2512.19433v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/Alpha-VLLM/Lumina-DiMOO</p></details> |
-| **[CodeSimpleQA: Scaling Factuality in Code Large Language Models](https://arxiv.org/abs/2512.19424v1)** | 2025-12-22 |  |
-| **[Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis](https://arxiv.org/abs/2511.07329v2)** | 2025-12-22 |  |
-| **[ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining](https://arxiv.org/abs/2512.19354v1)** | 2025-12-22 |  |
-| **[PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models](https://arxiv.org/abs/2512.19350v1)** | 2025-12-22 |  |
-| **[Style Over Story: A Process-Oriented Study of Authorial Creativity in Large Language Models](https://arxiv.org/abs/2510.02025v2)** | 2025-12-22 |  |
-| **[Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization](https://arxiv.org/abs/2512.19270v1)** | 2025-12-22 | 7 pages, 4 figures |
-| **[ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models](https://arxiv.org/abs/2512.19240v1)** | 2025-12-22 |  |
+| **[Making Large Language Models Efficient Dense Retrievers](https://arxiv.org/abs/2512.20612v1)** | 2025-12-23 |  |
+| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
+| **[FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models](https://arxiv.org/abs/2512.20561v1)** | 2025-12-23 | Under submission |
+| **[Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset & The Effective AAM-TSA Model](https://arxiv.org/abs/2512.20548v1)** | 2025-12-23 |  |
+| **[Chain-of-Anomaly Thoughts with Large Vision-Language Models](https://arxiv.org/abs/2512.20417v1)** | 2025-12-23 | <details><summary>2 pag...</summary><p>2 pages, 3 figures, 1 table. Accepted for RECPAD 2025</p></details> |
+| **[Reinforcement Learning for Large Model: A Survey](https://arxiv.org/abs/2508.08189v3)** | 2025-12-23 | 22 pages |
+| **[Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data](https://arxiv.org/abs/2412.11800v3)** | 2025-12-23 | <details><summary>34 pa...</summary><p>34 pages, 17 figures, 8 tables</p></details> |
+| **[SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization](https://arxiv.org/abs/2512.20333v1)** | 2025-12-23 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 1 table</p></details> |
+| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
+| **[Can LLMs Solve My Grandma's Riddle? Evaluating Multilingual Large Language Models on Reasoning Traditional Bangla Tricky Riddles](https://arxiv.org/abs/2512.20324v1)** | 2025-12-23 |  |
+| **[AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards](https://arxiv.org/abs/2512.19126v2)** | 2025-12-23 |  |
+| **[From Binary to Semantic: Utilizing Large-Scale Binary Occupancy Data for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2507.13387v3)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to ICCV Workshop 2025</p></details> |
+| **[Concept Generalization in Humans and Large Language Models: Insights from the Number Game](https://arxiv.org/abs/2512.20162v1)** | 2025-12-23 |  |
+| **[FastMPS: Revisit Data Parallel in Large-scale Matrix Product State Sampling](https://arxiv.org/abs/2512.20064v1)** | 2025-12-23 | 12 pages, 13 figures |
+| **[Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061v1)** | 2025-12-23 |  |
 
 ## Foundation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)** | 2025-12-23 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
+| **[Foundation Model for Polycrystalline Material Informatics](https://arxiv.org/abs/2512.06770v3)** | 2025-12-23 |  |
+| **[IndicDLP: A Foundational Dataset for Multi-Lingual and Multi-Domain Document Layout Parsing](https://arxiv.org/abs/2512.20236v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in ICDAR 2025 (Oral Presentation) - Best Student Paper Runner-Up Award</p></details> |
+| **[Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models](https://arxiv.org/abs/2505.23593v3)** | 2025-12-23 |  |
+| **[AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model](https://arxiv.org/abs/2512.20157v1)** | 2025-12-23 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables</p></details> |
+| **[Retrieval-augmented Prompt Learning for Pre-trained Foundation Models](https://arxiv.org/abs/2512.20145v1)** | 2025-12-23 | <details><summary>IEEE/...</summary><p>IEEE/ACM Transactions on Audio, Speech and Language Processing</p></details> |
+| **[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/abs/2512.16334v3)** | 2025-12-23 | <details><summary>5 fig...</summary><p>5 figures in the main content</p></details> |
+| **[How Much 3D Do Video Foundation Models Encode?](https://arxiv.org/abs/2512.19949v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://vidfm-3d-probe.github.io</p></details> |
+| **[How well do Large Language Models Recognize Instructional Moves? Establishing Baselines for Foundation Models in Educational Discourse](https://arxiv.org/abs/2512.19903v1)** | 2025-12-22 |  |
+| **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v2)** | 2025-12-22 | <details><summary>Fix a...</summary><p>Fix an unfortunate copy-and-paste typo</p></details> |
 | **[Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application](https://arxiv.org/abs/2512.19299v1)** | 2025-12-22 |  |
 | **[CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models](https://arxiv.org/abs/2512.19083v1)** | 2025-12-22 | <details><summary>This ...</summary><p>This paper is accepted by the IEEE Internet of Things Journal (IoT-J) for publication in the Special Issue on "Augmented Edge Sensing Intelligence for Low-Altitude IoT Systems"</p></details> |
-| **[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/abs/2512.16334v2)** | 2025-12-21 | <details><summary>5 fig...</summary><p>5 figures in the main content</p></details> |
 | **[Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195v3)** | 2025-12-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[A probabilistic foundation model for crystal structure denoising, phase classification, and order parameters](https://arxiv.org/abs/2512.11077v2)** | 2025-12-21 |  |
 | **[AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining](https://arxiv.org/abs/2506.13274v3)** | 2025-12-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
-| **[Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation](https://arxiv.org/abs/2512.18176v1)** | 2025-12-20 |  |
-| **[Unifying Deep Predicate Invention with Pre-trained Foundation Models](https://arxiv.org/abs/2512.17992v1)** | 2025-12-19 | 18 pages, 11 figures |
-| **[Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://arxiv.org/abs/2512.17514v1)** | 2025-12-19 |  |
-| **[Derivates for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v1)** | 2025-12-19 |  |
-| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted in AAAI 2024 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
-| **[Zero-shot Hierarchical Plant Segmentation via Foundation Segmentation Models and Text-to-image Attention](https://arxiv.org/abs/2509.09116v3)** | 2025-12-19 | WACV 2026 Accepted |
-| **[Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing](https://arxiv.org/abs/2512.17224v1)** | 2025-12-19 | Accepted by AAAI2026 |
-| **[Do Foundational Audio Encoders Understand Music Structure?](https://arxiv.org/abs/2512.17209v1)** | 2025-12-19 |  |
-| **[From Classical Machine Learning to Emerging Foundation Models: Review on Multimodal Data Integration for Cancer Research](https://arxiv.org/abs/2507.09028v2)** | 2025-12-18 | 10 figures, 5 tables |
 
