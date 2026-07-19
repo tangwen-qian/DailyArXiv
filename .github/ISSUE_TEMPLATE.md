@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/tangwen-qian/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Spatial
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926v1)** | 2026-07-15 |  |
-| **[Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v2)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables, ECCV 2026</p></details> |
-| **[Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models](https://arxiv.org/abs/2607.13860v1)** | 2026-07-15 |  |
-| **[Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting](https://arxiv.org/abs/2607.13808v1)** | 2026-07-15 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Project page with videos and interactive demos: https://nilkel.github.io/bitymi/</p></details> |
-| **[Leveraging Differentiable PDE Solvers for Semi-Neural Spatial Reconstruction From Sparse Measurements](https://arxiv.org/abs/2601.20496v2)** | 2026-07-15 |  |
-| **[Towards Spatial Supersensing in the Wild](https://arxiv.org/abs/2607.13681v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://vsi-super-wild.github.io/</p></details> |
-| **[FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry](https://arxiv.org/abs/2607.11588v3)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://mx-liu6.github.io/FoundationGeo-web/</p></details> |
-| **[CDS: Counterfactual Directionality Score for Structured Interventions in Spatial Graphs](https://arxiv.org/abs/2607.13508v1)** | 2026-07-15 | 15 pages, 4 figures |
-| **[CASA-SDF: Curriculum-Aware Spatial Adaptation with Curvature-Guided Density for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2607.13492v1)** | 2026-07-15 |  |
-| **[GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding](https://arxiv.org/abs/2607.13454v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
-| **[Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence](https://arxiv.org/abs/2607.12477v2)** | 2026-07-15 | <details><summary>Websi...</summary><p>Website:https://choucisan.github.io/publications/self-in-space ; Code:https://github.com/IntelliSensing/Self-in-Space</p></details> |
-| **[LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning](https://arxiv.org/abs/2607.12858v1)** | 2026-07-14 |  |
-| **[MAGE: Color-Invariant and Spatial Knowledge Distillation for Gastric Neoplasm Classification](https://arxiv.org/abs/2607.12663v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
-| **[Do We Really Need Transformers for Global Spatial Information Extraction in Traffic Forecasting?](https://arxiv.org/abs/2607.12462v1)** | 2026-07-14 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Source code available at https://github.com/uuesti/U-Trans</p></details> |
-| **[A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data](https://arxiv.org/abs/2412.08498v3)** | 2026-07-14 |  |
+| **[Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers](https://arxiv.org/abs/2607.15227v1)** | 2026-07-16 | Submitted for review |
+| **[Concept-Guided Spatial Regularization for World Models in Atari Pong](https://arxiv.org/abs/2607.15142v1)** | 2026-07-16 | 16 pages, 5 figures |
+| **[Strong Spatial Mixing for General 2-Spin Systems: A Unified Approach from Zero-Freeness](https://arxiv.org/abs/2401.09317v4)** | 2026-07-16 | <details><summary>v4 up...</summary><p>v4 updates: apendix comparing different framework. v3 updates: Two forms of spatial mixing results was added (Theorem 6). An extension of the Christoffel-Darboux type identity to q-spin systems was added. v2 updates: A new condition under which Theorem 1 also holds was added. The condition of Theorem 2 was updated to a more general one</p></details> |
+| **[Can AR Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision-Making? A Comparative Study of AR X-Ray vs. 2D Minimap](https://arxiv.org/abs/2507.14316v5)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, Accepted for publication in CHI'26, Barcelona, Spain, April 13 - 17, 2026; CHI '26: ACM CHI Conference on Human Factors in Computing Systems</p></details> |
+| **[Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding](https://arxiv.org/abs/2607.15054v1)** | 2026-07-16 |  |
+| **[URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity](https://arxiv.org/abs/2607.15033v1)** | 2026-07-16 |  |
+| **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004v1)** | 2026-07-16 |  |
+| **[Still image and spatial-temporal tomato data enabling detection, segmentation, tracking, and video-instance segmentation using strong and weak labels](https://arxiv.org/abs/2607.14934v1)** | 2026-07-16 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 9 tables. Two novel datasets released - link to repository in document</p></details> |
+| **[Measuring Spatial Clustering via Metropolis-Hastings Diffusion Distance](https://arxiv.org/abs/2607.14880v1)** | 2026-07-16 |  |
+| **[Assing Preferential Sampling in Retail Survival Data: A Bayesian Joint LGCP and Spatial Probit Model for Mini-Supermarket Closure in Tokyo](https://arxiv.org/abs/2607.14860v1)** | 2026-07-16 |  |
+| **[Autoregressive Guidance of Deep Spatially Selective Filters using Bayesian Tracking for Efficient Extraction of Moving Speakers](https://arxiv.org/abs/2603.23723v2)** | 2026-07-16 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Collaborative Spatial Learning with Multi-LLM Agents in Networked Social Experiments](https://arxiv.org/abs/2607.14574v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at ASONAM 2026; to appear in the Springer proceedings</p></details> |
+| **[SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents](https://arxiv.org/abs/2607.14543v1)** | 2026-07-16 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 6 figures, 4 tables</p></details> |
+| **[Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation](https://arxiv.org/abs/2607.14497v1)** | 2026-07-16 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Chi Kit Wong and Ye Pan contributed equally. Code: https://github.com/Chikit-WONG/spatialGraph</p></details> |
+| **[Probing Spatial Structure in Pretrained Audio Representations](https://arxiv.org/abs/2606.05544v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 
 ## Spatio
 | **Title** | **Date** | **Comment** |
@@ -45,44 +45,48 @@ labels: documentation
 ## Time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representation-Based Exploration for Language Models: From Test-Time to Post-Training](https://arxiv.org/abs/2510.11686v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Website and code: https://rep-exp.github.io</p></details> |
-| **[X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras](https://arxiv.org/abs/2607.12993v2)** | 2026-07-15 | 24 pages |
-| **[Multimodal Empirical Bayes Variational Autoencoders for Joint Longitudinal and Time-to-Event Modeling](https://arxiv.org/abs/2607.13984v1)** | 2026-07-15 |  |
-| **[Finding a Solution to the Erdős-Ginzburg-Ziv Theorem in Linear Time](https://arxiv.org/abs/2605.21753v2)** | 2026-07-15 | 12 pages |
-| **[Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies](https://arxiv.org/abs/2604.00830v3)** | 2026-07-15 |  |
-| **[PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter](https://arxiv.org/abs/2607.13891v1)** | 2026-07-15 |  |
-| **[Hierarchical Self-Supervised Representation Learning Framework for Multivariate Time Series Grounded in ECG Analysis](https://arxiv.org/abs/2607.01145v2)** | 2026-07-15 | <details><summary>29 pa...</summary><p>29 pages, 8 figures. Polished text, improved formatting, fixed speed benchmark result, and added new downstream task. Code will be made publicly available soon</p></details> |
-| **[Introducing Large Language Models into the Design Flow of Time Sensitive Networking](https://arxiv.org/abs/2509.26368v3)** | 2026-07-15 |  |
-| **[Policy of Thoughts: Scaling Test-Time Training for LLM Reasoning via Online Policy Evolution](https://arxiv.org/abs/2601.20379v2)** | 2026-07-15 | <details><summary>Under...</summary><p>Under Review, preprint</p></details> |
-| **[The TIME Machine: On The Power of Motion for Efficient Perception](https://arxiv.org/abs/2605.23045v3)** | 2026-07-15 | <details><summary>for p...</summary><p>for project page, see https://time-model.github.io/</p></details> |
-| **[Unifying Decision-Making and Trajectory-Planning in Unsignalized Intersections Using Time-Varying Potential Fields](https://arxiv.org/abs/2607.13626v1)** | 2026-07-15 |  |
-| **[EM-GANSim: Real-time and Accurate EM Simulation Using Conditional GANs for 3D Indoor Scenes](https://arxiv.org/abs/2405.17366v3)** | 2026-07-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 5 tables</p></details> |
-| **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v2)** | 2026-07-15 |  |
-| **[STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](https://arxiv.org/abs/2510.14893v4)** | 2026-07-15 |  |
-| **[Rethinking Multimodal Fusion for Time Series: Text Modalities Need Constrained Fusion](https://arxiv.org/abs/2603.22372v3)** | 2026-07-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026 (Oral presentation)</p></details> |
+| **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages. Preprint. Project page with demos and video results: https://nst-mem.github.io</p></details> |
+| **[Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](https://arxiv.org/abs/2607.09957v2)** | 2026-07-16 |  |
+| **[Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry](https://arxiv.org/abs/2607.15238v1)** | 2026-07-16 |  |
+| **[Stochastic binary networks with asymmetric and time-delayed interactions](https://arxiv.org/abs/2607.15215v1)** | 2026-07-16 |  |
+| **[Small Matrices with Large Inverses: Unimodular $4 \times 4$ Cases](https://arxiv.org/abs/2607.07688v2)** | 2026-07-16 | <details><summary>20 pa...</summary><p>20 pages; $5\times 5$ nonnegative unimodular conjecture appears at end</p></details> |
+| **[Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation](https://arxiv.org/abs/2403.01977v5)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Frequency Selection in Bayesian Spectral Modeling of Time Series Data with Applications to Wearable Device Measurements](https://arxiv.org/abs/2607.15157v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted for publication in the Annals of Applied Statistics</p></details> |
+| **[Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/abs/2602.18645v3)** | 2026-07-16 | ICML 2026 |
+| **[URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity](https://arxiv.org/abs/2607.15033v1)** | 2026-07-16 |  |
+| **[FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](https://arxiv.org/abs/2607.14898v1)** | 2026-07-16 | CVPR2026 |
+| **[Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting](https://arxiv.org/abs/2607.14871v1)** | 2026-07-16 |  |
+| **[An (m,k)-firm Elevation Policy for Weakly Hard Real-Time in Converged 5G-TSN Networks](https://arxiv.org/abs/2508.09769v2)** | 2026-07-16 | accepted at DSN26 |
+| **[Inferring Non-Normal Amplification Geometry from Multivariate Time Series](https://arxiv.org/abs/2607.14786v1)** | 2026-07-16 | 35 pages, 17 figures |
+| **[Mixed-Frequency Time Series Forecasting via Depth-Separable Neural Networks](https://arxiv.org/abs/2607.14771v1)** | 2026-07-16 |  |
+| **[AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker](https://arxiv.org/abs/2607.14726v1)** | 2026-07-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Submitted to IEEE Transactions on Geoscience and Remote Sensing</p></details> |
 
 ## Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers](https://arxiv.org/abs/2607.15227v1)** | 2026-07-16 | Submitted for review |
+| **[Disintegration Temporal Logic for Probabilistic Hyperproperties](https://arxiv.org/abs/2607.15223v1)** | 2026-07-16 |  |
+| **[T^2MLR: Transformer with Temporal Middle-Layer Recurrence](https://arxiv.org/abs/2607.15178v1)** | 2026-07-16 |  |
+| **[Temporal Cascading of Planning and Control for Quadrotor MPC](https://arxiv.org/abs/2512.12427v2)** | 2026-07-16 |  |
+| **[URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity](https://arxiv.org/abs/2607.15033v1)** | 2026-07-16 |  |
+| **[Still image and spatial-temporal tomato data enabling detection, segmentation, tracking, and video-instance segmentation using strong and weak labels](https://arxiv.org/abs/2607.14934v1)** | 2026-07-16 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 9 tables. Two novel datasets released - link to repository in document</p></details> |
+| **[Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2607.14886v1)** | 2026-07-16 |  |
+| **[ChronoQG: Towards a Temporally Expressive and Hop-Bounded Benchmark for Temporal Knowledge Graph Question Generation](https://arxiv.org/abs/2607.14770v1)** | 2026-07-16 | Preprint |
+| **[GAttNHP: Group Attention Neural Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs](https://arxiv.org/abs/2607.14733v1)** | 2026-07-16 |  |
+| **[MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.01578v2)** | 2026-07-16 |  |
+| **[A Temporal Machine Learning-Based Time-to-Event Model for Predicting ALS Progression and Healthcare Utilization](https://arxiv.org/abs/2607.14190v1)** | 2026-07-15 |  |
 | **[Agent-Alternation-Free Epistemic Metric Temporal Logic with Past: Model Checking and Complexity](https://arxiv.org/abs/2607.13981v1)** | 2026-07-15 | 31 pages |
 | **[TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning](https://arxiv.org/abs/2607.08283v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to the SemRob 2026 Workshop at Robotics: Science and Systems (RSS 2026)</p></details> |
+| **[What Do Temporal Graph Learning Models Learn?](https://arxiv.org/abs/2510.09416v4)** | 2026-07-15 |  |
 | **[Anatomically Faithful but Temporally Blind: Auditing Attribution for Left-Ventricular Ejection-Fraction Estimation from Echocardiography](https://arxiv.org/abs/2607.13738v1)** | 2026-07-15 |  |
-| **[STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling](https://arxiv.org/abs/2607.11722v2)** | 2026-07-15 |  |
-| **[A Simple Obligation to Metric Interval Temporal Logic](https://arxiv.org/abs/2607.13598v1)** | 2026-07-15 |  |
-| **[VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation](https://arxiv.org/abs/2607.13527v1)** | 2026-07-15 | Accepted by PRCV2026 |
-| **[Temporal Shifts and Causal Interactions of Emotions in Social and Mass Media: A Case Study of the "Reiwa Rice Riot" in Japan](https://arxiv.org/abs/2602.14091v2)** | 2026-07-15 |  |
-| **[Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation](https://arxiv.org/abs/2607.12752v2)** | 2026-07-15 |  |
-| **[ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding](https://arxiv.org/abs/2607.13421v1)** | 2026-07-15 | <details><summary>this ...</summary><p>this paper has already been accepted by ECCV 2026</p></details> |
-| **[DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs](https://arxiv.org/abs/2607.12503v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
-| **[Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization](https://arxiv.org/abs/2607.13336v1)** | 2026-07-14 | <details><summary>This ...</summary><p>This work provides a basis for the ECCV 2026 LifeGenIP Challenge on Unlearnable Videos against Diffusion-based Customization. Challenge page: https://lifegenip.cc/competition. Evaluation code: https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit. Project page: https://saythe17.github.io/TC-UAP/</p></details> |
-| **[Intention Driven Identification of In-Possession Match Phases in Association Football through Temporal Graph Learning](https://arxiv.org/abs/2606.09289v3)** | 2026-07-14 | 27 pages, 10 figures |
-| **[Multi-Perspective Agentic Program Repair via Code Property Graphs and Temporal Execution Graphs](https://arxiv.org/abs/2607.12605v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 10 tables</p></details> |
-| **[STKAN: Kolmogorov-Arnold Networks for Spatio-Temporal Forecasting](https://arxiv.org/abs/2607.13108v1)** | 2026-07-14 |  |
-| **[INFANiTE: Implicit Neural representation for high-resolution Fetal brain spatio-temporal Atlas learNing from clinical Thick-slicE MRI](https://arxiv.org/abs/2605.09977v3)** | 2026-07-14 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data](https://arxiv.org/abs/2605.13504v2)** | 2026-07-16 | <details><summary>Main:...</summary><p>Main: 26 pages, 3 figures. Supplementary Information: 18 pages, 5 figures</p></details> |
+| **[Latent Trajectory Discrimination for AI-Generated Text Detection](https://arxiv.org/abs/2607.14967v1)** | 2026-07-16 |  |
+| **[Trajectory-Aware Flow Matching for Topology Optimisation](https://arxiv.org/abs/2607.14652v1)** | 2026-07-16 |  |
+| **[Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems](https://arxiv.org/abs/2607.01106v2)** | 2026-07-15 | 13 pages, 3 figures |
 | **[Mapping the long-term trajectories of political violence in Africa](https://arxiv.org/abs/2603.06502v2)** | 2026-07-15 |  |
 | **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
 | **[JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes](https://arxiv.org/abs/2607.11715v2)** | 2026-07-15 |  |
@@ -94,14 +98,14 @@ labels: documentation
 | **[Track and Caption Any Motion: Open-Vocabulary Spatiotemporal Captioning via Trajectory-Conditioned Generation](https://arxiv.org/abs/2512.10607v2)** | 2026-07-14 |  |
 | **[ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories](https://arxiv.org/abs/2606.11520v4)** | 2026-07-14 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Dataset and code: https://github.com/Valiere01/ISE-Trace</p></details> |
 | **[Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints](https://arxiv.org/abs/2603.05842v2)** | 2026-07-14 |  |
-| **[TRIG: Trajectory-Rig Decoupled Metric Geometry Learning](https://arxiv.org/abs/2607.05801v2)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 8 tables</p></details> |
-| **[Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation](https://arxiv.org/abs/2607.10744v2)** | 2026-07-14 |  |
-| **[AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624v2)** | 2026-07-14 |  |
-| **[IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation](https://arxiv.org/abs/2607.10144v2)** | 2026-07-14 |  |
 
 ## Trajectories
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data](https://arxiv.org/abs/2605.13504v2)** | 2026-07-16 | <details><summary>Main:...</summary><p>Main: 26 pages, 3 figures. Supplementary Information: 18 pages, 5 figures</p></details> |
+| **[Latent Trajectory Discrimination for AI-Generated Text Detection](https://arxiv.org/abs/2607.14967v1)** | 2026-07-16 |  |
+| **[Trajectory-Aware Flow Matching for Topology Optimisation](https://arxiv.org/abs/2607.14652v1)** | 2026-07-16 |  |
+| **[Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems](https://arxiv.org/abs/2607.01106v2)** | 2026-07-15 | 13 pages, 3 figures |
 | **[Mapping the long-term trajectories of political violence in Africa](https://arxiv.org/abs/2603.06502v2)** | 2026-07-15 |  |
 | **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
 | **[JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes](https://arxiv.org/abs/2607.11715v2)** | 2026-07-15 |  |
@@ -113,46 +117,42 @@ labels: documentation
 | **[Track and Caption Any Motion: Open-Vocabulary Spatiotemporal Captioning via Trajectory-Conditioned Generation](https://arxiv.org/abs/2512.10607v2)** | 2026-07-14 |  |
 | **[ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories](https://arxiv.org/abs/2606.11520v4)** | 2026-07-14 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Dataset and code: https://github.com/Valiere01/ISE-Trace</p></details> |
 | **[Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints](https://arxiv.org/abs/2603.05842v2)** | 2026-07-14 |  |
-| **[TRIG: Trajectory-Rig Decoupled Metric Geometry Learning](https://arxiv.org/abs/2607.05801v2)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 8 tables</p></details> |
-| **[Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation](https://arxiv.org/abs/2607.10744v2)** | 2026-07-14 |  |
-| **[AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624v2)** | 2026-07-14 |  |
-| **[IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation](https://arxiv.org/abs/2607.10144v2)** | 2026-07-14 |  |
 
 ## Large
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models](https://arxiv.org/abs/2607.14049v1)** | 2026-07-15 |  |
-| **[HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation](https://arxiv.org/abs/2607.09776v2)** | 2026-07-15 |  |
-| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v2)** | 2026-07-15 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
-| **[Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana](https://arxiv.org/abs/2607.13934v1)** | 2026-07-15 |  |
-| **[PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter](https://arxiv.org/abs/2607.13891v1)** | 2026-07-15 |  |
-| **[Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models](https://arxiv.org/abs/2607.13860v1)** | 2026-07-15 |  |
-| **[PROBE: Benchmarking Code Generation in Large Language Models](https://arxiv.org/abs/2607.13820v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted for publication in Empirical Software Engineering (Springer)</p></details> |
-| **[DarwinLM: Evolutionary Structured Pruning of Large Language Models](https://arxiv.org/abs/2502.07780v4)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by COLM 2026 Code: https://github.com/IST-DASLab/DarwinLM</p></details> |
-| **[Comprehensive, Efficient Large-Scale Community Detection via Structural Entropy Game](https://arxiv.org/abs/2607.13713v1)** | 2026-07-15 |  |
-| **[JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes](https://arxiv.org/abs/2607.11715v2)** | 2026-07-15 |  |
-| **[Introducing Large Language Models into the Design Flow of Time Sensitive Networking](https://arxiv.org/abs/2509.26368v3)** | 2026-07-15 |  |
-| **[Human4K: A Large-Scale 4K Multi-View Mocap Dataset for Whole-Body 3D Human Reconstruction](https://arxiv.org/abs/2607.13646v1)** | 2026-07-15 |  |
-| **[Design, Modeling and Experimental Validation of a Miniature Hybrid Underwater Glider With Large-Range Foldable Deflectable Wings](https://arxiv.org/abs/2607.13622v1)** | 2026-07-15 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, journal</p></details> |
-| **[Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System](https://arxiv.org/abs/2607.13608v1)** | 2026-07-15 |  |
-| **[MARS: Multi-stage Accelerated Read Stack for Large-buffer Buffered Reads](https://arxiv.org/abs/2607.13604v1)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, 1 table</p></details> |
+| **[Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176v1)** | 2026-07-16 |  |
+| **[Empirical evidence of Large Language Model's influence on human spoken communication](https://arxiv.org/abs/2409.01754v4)** | 2026-07-16 |  |
+| **[RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping](https://arxiv.org/abs/2607.15048v1)** | 2026-07-16 |  |
+| **[Towards realistic large random models of labeled transition systems and their 0-1 laws](https://arxiv.org/abs/2607.15029v1)** | 2026-07-16 |  |
+| **[Sample Is Feature: Beyond Item-Level, Toward Sample-Level Tokens for Unified Large Recommender Models](https://arxiv.org/abs/2604.15650v3)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by RecSyc2026</p></details> |
+| **[Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](https://arxiv.org/abs/2607.14816v1)** | 2026-07-16 |  |
+| **[TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](https://arxiv.org/abs/2509.24566v2)** | 2026-07-16 |  |
+| **[Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](https://arxiv.org/abs/2607.08748v2)** | 2026-07-16 |  |
+| **[Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753v1)** | 2026-07-16 |  |
+| **[Auditing Inference-Time Defense Evaluation for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v3)** | 2026-07-16 |  |
+| **[MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732v3)** | 2026-07-16 | Ongoing work |
+| **[Comprehensive, Efficient Large-Scale Community Detection via Structural Entropy Game](https://arxiv.org/abs/2607.13713v2)** | 2026-07-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2501.15130</p></details> |
+| **[Beyond Medical Diagnostics: How Medical Multimodal Large Language Models Think in Space](https://arxiv.org/abs/2603.13800v2)** | 2026-07-16 |  |
+| **[Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models](https://arxiv.org/abs/2607.14630v1)** | 2026-07-16 |  |
+| **[Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2607.14552v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 14 tables. Code: https://github.com/js-lee-AI/answer-leakage</p></details> |
 
 ## Foundation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163v1)** | 2026-07-16 |  |
+| **[CFM-Bench: A Unified Multi-Domain, Multi-Task Benchmark for Channel Foundation Models](https://arxiv.org/abs/2607.14975v1)** | 2026-07-16 |  |
+| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
+| **[Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception](https://arxiv.org/abs/2607.14539v1)** | 2026-07-16 | 8 pages, 6 figures |
+| **[VLT: A Vision-Language-Time Series Multimodal Foundation Model for Industrial Intelligence](https://arxiv.org/abs/2607.14510v1)** | 2026-07-16 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, and 13 tables, including supplementary material. Haiteng Wang and Jingheng Yan contributed equally to this work</p></details> |
+| **[Logical Foundations of Two-Sided Type Theory](https://arxiv.org/abs/2607.14325v1)** | 2026-07-15 | 81 pages |
+| **[Neural Architectures for Amortized Bayesian Inference: Statistical Foundations and Empirical Assessments](https://arxiv.org/abs/2601.07944v2)** | 2026-07-15 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, 3 tables</p></details> |
 | **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/abs/2607.14088v1)** | 2026-07-15 | <details><summary>Home ...</summary><p>Home page: https://zhxie0117.github.io/VideoRAE</p></details> |
+| **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v2)** | 2026-07-15 | <details><summary>The n...</summary><p>The new version adds additional results and details</p></details> |
 | **[MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072v1)** | 2026-07-15 | Accepted to ICML 26 |
+| **[TEDDY: A Pediatric Foundation Model for Risk Forewarning from ICD-Coded Diagnostic Histories](https://arxiv.org/abs/2607.14191v1)** | 2026-07-15 |  |
+| **[RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](https://arxiv.org/abs/2607.14187v1)** | 2026-07-15 |  |
 | **[MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model](https://arxiv.org/abs/2607.13763v1)** | 2026-07-15 | 10 pages, 4 figues |
 | **[Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy](https://arxiv.org/abs/2603.19802v2)** | 2026-07-15 |  |
 | **[Foundation Models for Credit Risk Prediction: A Game Changer?](https://arxiv.org/abs/2605.18147v2)** | 2026-07-15 |  |
-| **[FM$^2$: Unified Federated Foundation Models for Heterogeneous Multimodal Medical Imaging](https://arxiv.org/abs/2607.13386v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026 (Main Track): the 34th ACM International Conference on Multimedia</p></details> |
-| **[Tabular Foundation Models for Discrete Choice Estimation](https://arxiv.org/abs/2607.13314v1)** | 2026-07-14 |  |
-| **[Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management](https://arxiv.org/abs/2607.13239v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at IEEE ITSC 2026</p></details> |
-| **[ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models](https://arxiv.org/abs/2607.12959v1)** | 2026-07-14 |  |
-| **[MBTI: A Multi-Branch Efficient Fine-Tuning Framework for Hyperspectral Image Classification with Foundation Models](https://arxiv.org/abs/2607.12782v1)** | 2026-07-14 | <details><summary>The c...</summary><p>The code will be available at https://github.com/Azhenmiddleblock/MBTI/tree/main</p></details> |
-| **[Proof Theory and Dependent Type Theory: Distinct Foundations for Designing Proof Assistants](https://arxiv.org/abs/2607.12654v1)** | 2026-07-14 | <details><summary>In Pr...</summary><p>In Proceedings LFMTP 2026, arXiv:2607.10318</p></details> |
-| **[ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://arxiv.org/abs/2607.10383v2)** | 2026-07-14 |  |
-| **[FM-Receiver: A Foundation Model Enabled Unified Inner and Outer Neural Receiver Towards AI-Native Wireless Communications](https://arxiv.org/abs/2607.12555v1)** | 2026-07-14 |  |
-| **[Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2607.12454v1)** | 2026-07-14 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution will be published in Computer Aided Systems Theory - EUROCAST 2026, Lecture Notes in Computer Science, Springer</p></details> |
-| **[Predicting Program Comprehension with Foundation Models of Human Cognition](https://arxiv.org/abs/2607.11372v2)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submission under review</p></details> |
 
